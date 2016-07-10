@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+
+
+  <html class="light page-post">
+
+
+<head>
+  <meta charset="utf-8">
+  
+  <title>RickyShaw</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  
+    <meta name="keywords" content="forsigner,前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript" />
+  
+
+  <meta name="description" content="Diary: Where are we heading for, Z?Recently, both me and Zen seemd to be strugging with the ncentive to learn something new. He used to read technical books for a whole afternoon and never get bored,">
+<meta property="og:type" content="article">
+<meta property="og:title" content="RickyShaw">
+<meta property="og:url" content="http://yoursite.com/2016/07/10/Diary-Where-are-we-heading-for-Z">
+<meta property="og:site_name" content="RickyShaw">
+<meta property="og:description" content="Diary: Where are we heading for, Z?Recently, both me and Zen seemd to be strugging with the ncentive to learn something new. He used to read technical books for a whole afternoon and never get bored,">
+<meta property="og:updated_time" content="2016-07-10T08:40:52.000Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="RickyShaw">
+<meta name="twitter:description" content="Diary: Where are we heading for, Z?Recently, both me and Zen seemd to be strugging with the ncentive to learn something new. He used to read technical books for a whole afternoon and never get bored,">
+
+  
+
+  
+    <link rel="icon" href="/favicon.ico">
+  
+
+  <link href="/css/styles.css?v=eaf5ab1e" rel="stylesheet">
+
+
+  
+    <link rel="stylesheet" href="/css/personal-style.css">
+  
+
+  
+
+  
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "//hm.baidu.com/hm.js?57e94d016e201fba3603a8a2b0263af0";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+</head>
+
+<body>
+
+
+  
+    <span id="toolbox-mobile" class="toolbox-mobile">盒子</span>
+  
+
+  <div class="post-header CENTER">
+   
+  <div class="toolbox">
+    <a class="toolbox-entry" href="/">
+      <span class="toolbox-entry-text">盒子</span>
+      <i class="icon-angle-down"></i>
+      <i class="icon-home"></i>
+    </a>
+    <ul class="list-toolbox">
+      
+        <li class="item-toolbox">
+          <a
+            class="CIRCLE"
+            href="/archives/"
+            target="_self"
+            >
+            博客
+          </a>
+        </li>
+      
+    </ul>
+  </div>
+
+
+</div>
+
+
+  <div id="toc" class="toc-article">
+    <strong class="toc-title">文章目录</strong>
+    <ol class="toc"><li class="toc-item toc-level-1"><a class="toc-link" href="#Diary-Where-are-we-heading-for-Z"><span class="toc-text">Diary: Where are we heading for, Z?</span></a></li></ol>
+  </div>
+
+
+
+<div class="content content-post CENTER">
+   <article id="post-Diary-Where-are-we-heading-for-Z?" class="article article-type-post" itemprop="blogPost">
+  <header class="article-header">
+    <h1 class="post-title">(no title)</h1>
+
+    <div class="article-meta">
+      <span>
+        <i class="icon-calendar"></i>
+        <span>2016.07.10</span>
+      </span>
+
+      
+        <span class="article-author">
+          <i class="icon-user"></i>
+          <span>Ricky</span>
+        </span>
+      
+
+      
+
+
+      
+        <span>
+          <i class="icon-comment"></i>
+          <a href="http://rickyshaw.me/2016/07/10/Diary-Where-are-we-heading-for-Z?/#disqus_thread"></a>
+        </span>
+      
+
+    </div>
+  </header>
+
+  <div class="article-content">
+    
+      <h1 id="Diary-Where-are-we-heading-for-Z"><a href="#Diary-Where-are-we-heading-for-Z" class="headerlink" title="Diary: Where are we heading for, Z?"></a>Diary: Where are we heading for, Z?</h1><p>Recently, both me and Zen seemd to be strugging with the ncentive to learn something new. He used to read technical books for a whole afternoon and never get bored, while he is easily getting sleepy when in library, now he is sleeping at the desk right in front of me :(</p>
+<p>Where are we haeding for, a route to the loser’s house? How did it happen in the first place?</p>
+<p>The main reason I believe is that the society, the place where we live is full of temptation. There are basically food available whenever you feel like chew someting, sometimes you are not even starving. Roadside Stalls offer a wide range of street food from BBQ to stir fried noodles to fried chicken, all of which are tasety. I have to admit that the migrant workers from other small counties are really doing a good job(sad face). Besides midnight snacks, we also have cinema within walk distance. Given that Zen is a big movie fan, he checks the tickets frequently on his phone. You konw what will happen. </p>
+<p>But it’s true that we have to shoulder parts of the responsibility here.  It is pefectly understandable that one  tends to jump in their comfort zone as soon as he get liberated form a long working day. But those who make a difference are always the ones that can commit themselve to a hard-working night(from 8-10pm), when one can be fully devoted to what interests him. Back to check what we usually do at that period, watching TV problem, having a quarrel, or eating junk food. Willpower is what we need most. </p>
+<p>As is repeated around our ear along the way we grow up, where there is a will, there is a way. Hopefully, me and Zen can figure out where are heading for, what are we fighting for soon enough and get well prepared for whatever the future my have in store.</p>
+
+    
+  </div>
+</article>
+
+</div>
+
+
+  <a id="backTop" class="back-top">
+    <i class="icon-angle-up"></i>
+  </a>
+
+
+
+
+  <div class="modal" id="modal">
+  <span id="cover" class="cover hide"></span>
+  <div id="modal-dialog" class="modal-dialog hide-dialog">
+    <div class="modal-header">
+      <span id="close" class="btn-close">关闭</span>
+    </div>
+    <hr>
+    <div class="modal-body">
+      <ul class="list-toolbox">
+        
+          <li class="item-toolbox">
+            <a
+              class="CIRCLE"
+              href="/archives/"
+              target="_self"
+              >
+              博客
+            </a>
+          </li>
+        
+      </ul>
+
+    </div>
+  </div>
+</div>
+
+
+
+  
+      <div class="fexo-comments comments-post">
+    
+  <section class="disqus-comments">
+    <div id="disqus_thread">
+      <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    </div>
+  </section>
+
+  <script>
+    var disqus_shortname = 'forsigner';
+    
+    var disqus_url = 'http://yoursite.com/2016/07/10/Diary-Where-are-we-heading-for-Z?/';
+    
+    (function(){
+      var dsq = document.createElement('script');
+      dsq.type = 'text/javascript';
+      dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+
+  <script id="dsq-count-scr" src="//forsigner.disqus.com/count.js" async></script>
+
+
+
+    
+
+
+
+
+  </div>
+
+  
+
+  <script type="text/javascript">
+  function loadScript(url, callback) {
+    var script = document.createElement('script')
+    script.type = 'text/javascript';
+
+    if (script.readyState) { //IE
+      script.onreadystatechange = function() {
+        if (script.readyState == 'loaded' ||
+          script.readyState == 'complete') {
+          script.onreadystatechange = null;
+          callback();
+        }
+      };
+    } else { //Others
+      script.onload = function() {
+        callback();
+      };
+    }
+
+    script.src = url;
+    document.getElementsByTagName('head')[0].appendChild(script);
+  }
+
+  window.onload = function() {
+    loadScript('/js/bundle.js?235683', function() {
+      // load success
+    });
+  }
+</script>
+
+</body>
+</html>
